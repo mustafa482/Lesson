@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.exe
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.deps.json
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.dll
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\bin\Debug\net5.0\If-Else.pdb
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.dll
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\refint\If-Else.dll
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.pdb
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\If-Else.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\If-Else\If-Else\obj\Debug\net5.0\ref\If-Else.dll

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.exe
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.dll
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\bin\Debug\net5.0\Function.pdb
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.dll
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\refint\Function.dll
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.pdb
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\Function.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Function\Function\obj\Debug\net5.0\ref\Function.dll

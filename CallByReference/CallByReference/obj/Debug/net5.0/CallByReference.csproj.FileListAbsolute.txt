@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.exe
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.deps.json
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.dll
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.pdb
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.dll
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\refint\CallByReference.dll
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.pdb
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\CallByReference\CallByReference\obj\Debug\net5.0\ref\CallByReference.dll

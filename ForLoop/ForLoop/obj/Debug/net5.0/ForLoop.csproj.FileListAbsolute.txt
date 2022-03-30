@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.exe
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\refint\ForLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\ForLoop\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll

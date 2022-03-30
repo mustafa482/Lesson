@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.exe
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.dll
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\bin\Debug\net5.0\Continue.pdb
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.dll
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\refint\Continue.dll
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.pdb
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\Continue.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Continue\Continue\obj\Debug\net5.0\ref\Continue.dll

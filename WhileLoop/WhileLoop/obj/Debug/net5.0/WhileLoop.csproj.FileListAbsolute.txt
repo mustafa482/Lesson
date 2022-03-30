@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\refint\WhileLoop.dll
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\WhileLoop\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll

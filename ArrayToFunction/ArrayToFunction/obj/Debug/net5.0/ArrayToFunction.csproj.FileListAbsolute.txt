@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.exe
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.deps.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\bin\Debug\net5.0\ArrayToFunction.pdb
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\refint\ArrayToFunction.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.pdb
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ArrayToFunction.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayToFunction\ArrayToFunction\obj\Debug\net5.0\ref\ArrayToFunction.dll

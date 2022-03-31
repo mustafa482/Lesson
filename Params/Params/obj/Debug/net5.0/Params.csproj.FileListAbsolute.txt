@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.exe
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.dll
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\bin\Debug\net5.0\Params.pdb
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.dll
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\refint\Params.dll
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.pdb
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\Params.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Params\Params\obj\Debug\net5.0\ref\Params.dll

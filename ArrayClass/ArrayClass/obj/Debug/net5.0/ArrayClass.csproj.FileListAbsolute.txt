@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.exe
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.deps.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.pdb
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\refint\ArrayClass.dll
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.pdb
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\ArrayClass\ArrayClass\obj\Debug\net5.0\ref\ArrayClass.dll

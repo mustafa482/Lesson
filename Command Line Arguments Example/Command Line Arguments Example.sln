@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Line Arguments Example", "Command Line Arguments Example\Command Line Arguments Example.csproj", "{BE77E1FE-DA91-416A-8DC5-9262A6A1B96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE77E1FE-DA91-416A-8DC5-9262A6A1B96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE77E1FE-DA91-416A-8DC5-9262A6A1B96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE77E1FE-DA91-416A-8DC5-9262A6A1B96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE77E1FE-DA91-416A-8DC5-9262A6A1B96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD0CFDB-5184-44D2-835D-2BA5252EAB0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.exe
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.dll
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\bin\Debug\net5.0\Command Line Arguments Example.pdb
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.dll
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\refint\Command Line Arguments Example.dll
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.pdb
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\Command Line Arguments Example.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Command Line Arguments Example\Command Line Arguments Example\obj\Debug\net5.0\ref\Command Line Arguments Example.dll

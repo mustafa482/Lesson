@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.exe
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.dll
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\bin\Debug\net5.0\Aggregation.pdb
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.dll
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\refint\Aggregation.dll
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.pdb
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\Aggregation.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Aggregation\Aggregation\obj\Debug\net5.0\ref\Aggregation.dll

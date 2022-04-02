@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.exe
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.dll
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\bin\Debug\net5.0\Abstract.pdb
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.dll
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\refint\Abstract.dll
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.pdb
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\Abstract.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Abstract\Abstract\obj\Debug\net5.0\ref\Abstract.dll

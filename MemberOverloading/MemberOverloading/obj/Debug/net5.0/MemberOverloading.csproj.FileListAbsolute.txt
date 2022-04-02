@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.exe
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.deps.json
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.dll
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\bin\Debug\net5.0\MemberOverloading.pdb
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.dll
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\refint\MemberOverloading.dll
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.pdb
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\MemberOverloading.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\MemberOverloading\MemberOverloading\obj\Debug\net5.0\ref\MemberOverloading.dll

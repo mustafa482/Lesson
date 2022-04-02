@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.exe
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.deps.json
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.dll
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\bin\Debug\net5.0\MethodOverriding.pdb
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.dll
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\refint\MethodOverriding.dll
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.pdb
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\MethodOverriding.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\MethodOverriding\MethodOverriding\obj\Debug\net5.0\ref\MethodOverriding.dll

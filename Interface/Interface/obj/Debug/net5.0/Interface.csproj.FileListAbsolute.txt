@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.exe
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.dll
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\bin\Debug\net5.0\Interface.pdb
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.dll
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\refint\Interface.dll
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.pdb
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Interface\Interface\obj\Debug\net5.0\ref\Interface.dll

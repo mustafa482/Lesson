@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.exe
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.dll
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\bin\Debug\net5.0\Propertys.pdb
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.dll
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\refint\Propertys.dll
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.pdb
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\Propertys.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Propertys\Propertys\obj\Debug\net5.0\ref\Propertys.dll

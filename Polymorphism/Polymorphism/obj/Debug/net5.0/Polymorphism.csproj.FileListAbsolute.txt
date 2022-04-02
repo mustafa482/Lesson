@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\refint\Polymorphism.dll
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Polymorphism\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll

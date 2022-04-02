@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\refint\Encapsulation.dll
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Encapsulation\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll

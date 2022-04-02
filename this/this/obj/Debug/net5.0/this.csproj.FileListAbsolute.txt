@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.exe
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.deps.json
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.dll
+D:\Users\Mustafa\Desktop\Lesson\this\this\bin\Debug\net5.0\this.pdb
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.dll
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\refint\this.dll
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.pdb
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\this.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\this\this\obj\Debug\net5.0\ref\this.dll

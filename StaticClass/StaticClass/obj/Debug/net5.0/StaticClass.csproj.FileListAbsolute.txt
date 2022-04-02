@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.exe
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.deps.json
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\bin\Debug\net5.0\StaticClass.pdb
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\refint\StaticClass.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.pdb
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\StaticClass.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticClass\StaticClass\obj\Debug\net5.0\ref\StaticClass.dll

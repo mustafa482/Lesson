@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.exe
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.deps.json
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\bin\Debug\net5.0\StaticConstructor.pdb
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\refint\StaticConstructor.dll
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.pdb
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\StaticConstructor.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\StaticConstructor\StaticConstructor\obj\Debug\net5.0\ref\StaticConstructor.dll

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.exe
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.deps.json
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.dll
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.pdb
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.dll
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\refint\TryCatch.dll
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.pdb
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\TryCatch\TryCatch\obj\Debug\net5.0\ref\TryCatch.dll

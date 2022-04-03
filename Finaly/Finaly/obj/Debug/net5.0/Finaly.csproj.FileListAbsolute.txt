@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.exe
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.dll
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\bin\Debug\net5.0\Finaly.pdb
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.dll
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\refint\Finaly.dll
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.pdb
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\Finaly.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Finaly\Finaly\obj\Debug\net5.0\ref\Finaly.dll

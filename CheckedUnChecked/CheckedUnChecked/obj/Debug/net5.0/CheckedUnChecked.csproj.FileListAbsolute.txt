@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.exe
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.deps.json
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.dll
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\bin\Debug\net5.0\CheckedUnChecked.pdb
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.dll
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\refint\CheckedUnChecked.dll
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.pdb
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\CheckedUnChecked.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\CheckedUnChecked\CheckedUnChecked\obj\Debug\net5.0\ref\CheckedUnChecked.dll

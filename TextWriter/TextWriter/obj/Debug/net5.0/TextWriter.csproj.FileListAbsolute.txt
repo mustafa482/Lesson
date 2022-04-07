@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.exe
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.deps.json
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.dll
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\bin\Debug\net5.0\TextWriter.pdb
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.dll
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\refint\TextWriter.dll
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.pdb
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\TextWriter.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\TextWriter\TextWriter\obj\Debug\net5.0\ref\TextWriter.dll

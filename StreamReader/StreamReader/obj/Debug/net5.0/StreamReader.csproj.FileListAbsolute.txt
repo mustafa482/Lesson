@@ -1,0 +1,5 @@
+D:\Users\Mustafa\Desktop\Lesson\StreamReader\StreamReader\obj\Debug\net5.0\StreamReader.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\StreamReader\StreamReader\obj\Debug\net5.0\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\StreamReader\StreamReader\obj\Debug\net5.0\StreamReader.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\StreamReader\StreamReader\obj\Debug\net5.0\StreamReader.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\StreamReader\StreamReader\obj\Debug\net5.0\StreamReader.csproj.CoreCompileInputs.cache

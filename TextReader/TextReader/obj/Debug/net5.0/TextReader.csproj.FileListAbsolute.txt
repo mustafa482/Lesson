@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.exe
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.deps.json
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.dll
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\bin\Debug\net5.0\TextReader.pdb
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.dll
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\refint\TextReader.dll
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.pdb
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\TextReader.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\TextReader\TextReader\obj\Debug\net5.0\ref\TextReader.dll

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.exe
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.deps.json
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.dll
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\bin\Debug\net5.0\DirectoryInfo.pdb
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.dll
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\refint\DirectoryInfo.dll
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.pdb
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\DirectoryInfo.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\DirectoryInfo\DirectoryInfo\obj\Debug\net5.0\ref\DirectoryInfo.dll

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.exe
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\bin\Debug\net5.0\Collections_List.pdb
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\refint\Collections_List.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.pdb
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\Collections_List.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_List\Collections_List\obj\Debug\net5.0\ref\Collections_List.dll

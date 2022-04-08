@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.exe
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.dll
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\bin\Debug\net5.0\Stack.pdb
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.dll
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\refint\Stack.dll
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.pdb
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Stack\Stack\obj\Debug\net5.0\ref\Stack.dll

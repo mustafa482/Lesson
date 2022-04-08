@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.exe
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.deps.json
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.dll
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\bin\Debug\net5.0\SortedList.pdb
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.dll
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\refint\SortedList.dll
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.pdb
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\SortedList.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\SortedList\SortedList\obj\Debug\net5.0\ref\SortedList.dll

@@ -1,0 +1,16 @@
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.exe
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.deps.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.runtimeconfig.dev.json
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\bin\Debug\net5.0\Collections_HashSet.pdb
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\refint\Collections_HashSet.dll
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.pdb
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\Collections_HashSet.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson\Collections_HashSet\Collections_HashSet\obj\Debug\net5.0\ref\Collections_HashSet.dll

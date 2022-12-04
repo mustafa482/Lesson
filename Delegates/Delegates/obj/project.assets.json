@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\Lesson\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "D:\\Users\\Mustafa\\Desktop\\Lesson(C#)\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "D:\\Users\\Mustafa\\Desktop\\Lesson\\Delegates\\Delegates\\Delegates.csproj",
+      "projectPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(C#)\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Mustafa\\Desktop\\Lesson\\Delegates\\Delegates\\obj\\",
+      "outputPath": "D:\\Users\\Mustafa\\Desktop\\Lesson(C#)\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

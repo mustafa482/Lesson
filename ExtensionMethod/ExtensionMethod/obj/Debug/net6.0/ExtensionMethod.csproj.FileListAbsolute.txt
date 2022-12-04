@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

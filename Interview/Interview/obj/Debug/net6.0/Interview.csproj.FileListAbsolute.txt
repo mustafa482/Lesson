@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\bin\Debug\net6.0\Interview.exe
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\bin\Debug\net6.0\Interview.deps.json
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\bin\Debug\net6.0\Interview.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\bin\Debug\net6.0\Interview.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\bin\Debug\net6.0\Interview.pdb
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\refint\Interview.dll
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.pdb
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\Interview.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Lesson(C#)\Interview\Interview\obj\Debug\net6.0\ref\Interview.dll
